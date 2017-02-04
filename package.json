@@ -1,0 +1,27 @@
+{
+  "name": "produce-less",
+  "version": "0.1.0",
+  "description": "Less.js dynamic stylesheet language rule for produce",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etabits/node-produce-less.git"
+  },
+  "keywords": [
+    "produce",
+    "less",
+    "transformer",
+    "produce-transformer",
+    "produce-plugin",
+    "produce-rule"
+  ],
+  "author": "Hasan Arous <arous.hasan@gmail.com> (http://www.etabits.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/etabits/node-produce-less/issues"
+  },
+  "homepage": "https://github.com/etabits/node-produce-less#readme",
+  "dependencies": {
+    "less": "^2.7.2"
+  }
+}
